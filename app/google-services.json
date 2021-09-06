@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422585367388",
+    "project_id": "emojifirebase-ac158",
+    "storage_bucket": "emojifirebase-ac158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422585367388:android:ab1cd2bd198533fb0adf99",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422585367388-4kqpk80bjodpm63tugs1lfvrit5vqsu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3O7C1cPNYPjoT3RRigjXMJ5GyyV_XVoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422585367388-4kqpk80bjodpm63tugs1lfvrit5vqsu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
